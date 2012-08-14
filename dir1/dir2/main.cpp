@@ -2,5 +2,5 @@ int main()
 {
 	int x = 0;
 	int y = 0;
-	return 9;
+	return 7;
 }
